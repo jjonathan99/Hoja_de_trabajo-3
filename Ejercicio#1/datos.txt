@@ -1,0 +1,5 @@
+16	guatemala	3900
+19	peru		4400
+23	mexico		4500
+30	guatemala	3700
+35	argentina	3800
